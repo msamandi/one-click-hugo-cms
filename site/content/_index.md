@@ -1,20 +1,17 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "INSPION SPORTS"
+subtitle:  London’s Premier Fencing Classes 
+image: /img/main.png
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Who we are ?
+    text: "INSPION SPORTS are a team of European, British and Commonwealth champions. We deliver World Class sports programmes in schools to children, from the ages of 3-18. These sessions are tailored depending on age and ability."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    heading: "Our philosophy - core "
+    text: "At Inspion Sports our cornerstone philosophy is how sport can be transformative in the personal, social and academic development of a child.
+           Inspion Sports fencing sessions are designed to nurture transferable skills such as discipline, decision-making, independence, respect and performance under pressure, all of which contribute to making our students champions both on and off the piste."
+
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: "Inspion Sports Classes"
+    text: "Drawing on our experience in the TEAM GB Olympic set up, our programme uses high level training methods, such as mindfulness, and cutting edge technology. This means we can offer the highest quality of technical training to our students, but also physical benefits such as agility, balance, flexibility, strength, endurance and coordination."
 ---
 
