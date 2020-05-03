@@ -3,8 +3,7 @@ title: "Contact"
 logo: "/img/logo.png"
 contact_entries:
   - heading: Location
-    text: "92 wilton road SW1V1DW
-     London "
+    text: "92 wilton road S1WV 3PE  London "
 
   - heading: Working hours
     text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"

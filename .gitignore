@@ -1,5 +1,7 @@
 node_modules/
 dist/
 site/data/webpack.json
+site/static/
+.idea/
 /npm-debug.log
 yarn-error.log

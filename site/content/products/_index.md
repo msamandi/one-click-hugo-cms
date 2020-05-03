@@ -1,5 +1,5 @@
 ---
-title: Our Team
+title: meet the  Team
 type: products
 image: /img/main.png
 heading: world class international team 
