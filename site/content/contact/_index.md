@@ -6,7 +6,7 @@ contact_entries:
   - heading: Email
     text: "contact@inspionsports.com"
     
-  - heading: contact
+  - heading: Telephone 
     text: "07849831587"
 ---
 
