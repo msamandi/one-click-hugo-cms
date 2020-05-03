@@ -33,11 +33,11 @@ intro:
         Member of Great Britain Senior Men’s Foil Team since 2016.
     - image: /img/med.png
       description: >
-                 Mohamed Rayan samandi
+                 Mohamed Rayan Samandi
       text1: >
-             three times African champion
+             Three times African champion
       text2: >
-              twice olympian 2012,2008
+              Twice olympian 2012,2008
       text3: >
               14th place CIP Paris 2016
       text4: >
@@ -50,16 +50,11 @@ intro:
   description: >
 
 testimonials:
-  - author: Ziemek Wojciechowski
+  - author: Inspion Sports Ambassador Ziemek Wojciechowski - Team GB coach at 9 Olympic Games
     quote: >-
-     9 x Coach of GB Olympic Fencing Team 
-     I endorse this Programme. Alexander Tofalides has been my student for nearly a decadeb and the programme he has 
+     Alexander Tofalides has been my student for nearly a decade and the programme he has 
      put together for the children is first class. It will make them champions on and off the piste.
-  - author: Richard Kruse
-    quote: >-
-       Former World Number One and Four times Olympian  Alexander has been my teammate for many years on the British Team. The same drive and passion
-       he shows on the piste, is evident in the classes Inspion Sports provides for their students.
-
+ 
 ---
 
 
