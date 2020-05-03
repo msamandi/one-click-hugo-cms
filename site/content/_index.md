@@ -3,7 +3,7 @@ title: "INSPION SPORTS"
 subtitle:  London’s Premier Fencing Classes 
 image: /img/main.png
 blurb:
-    heading: about us 
+    heading: About us 
     text: "INSPION SPORTS are a team of European, British and Commonwealth champions. We deliver World Class sports programmes in schools to children, from the ages of 3-18."
 intro:
     heading: "Our philosophy"
