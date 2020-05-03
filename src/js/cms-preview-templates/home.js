@@ -55,11 +55,11 @@ export default class PostPreview extends React.Component {
                 <img src="/img/home-about-section.jpg" alt="" className="mb3"/>
               </div>
             </div>
-
+<!--
             <div className="tc">
               <a href="{{.buttonLink}}" className="btn raise">Read more</a>
             </div>
-
+-->
           </div>
         </div>
 

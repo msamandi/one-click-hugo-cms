@@ -1,5 +1,5 @@
 ---
-title: meet the  Team
+title: 
 type: products
 image: /img/main.png
 heading: world class international team 
@@ -35,9 +35,8 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: diverse and international team 
+  heading: Meet the  Team 
   description: >
-     Inspionsport is the ultimate club of world class fencers .
 
 testimonials:
   - author: Ziemek Wojciechowski
