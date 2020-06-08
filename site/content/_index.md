@@ -1,6 +1,6 @@
 ---
 title: "INSPION SPORTS"
-subtitle:  London’s Premier Fencing Classes 
+subtitle:  Britain’s Premier Fencing Classes 
 image: /img/main.png
 blurb:
     heading: About us 
